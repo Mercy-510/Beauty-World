@@ -1,0 +1,81 @@
+.navbar {
+    background-color: #e85a69;
+}
+
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.nav-item {
+    font-size: 16px;
+    padding-left: 80px;
+}
+
+.review {
+    text-align: center;
+    padding: 30px 0px;
+    color: #e85a69;
+}
+
+/* .row1 {
+    padding-left: 2%;
+}
+
+.row2 {
+    padding-left: 4%;
+} */
+
+.name {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    color: #e85a69;
+}
+
+.price {
+    text-align: center;
+    font-size: 20px;
+    color: #e85a69;
+}
+.card{
+    border: none;
+}
+.buttons {
+    margin-left: 30%;   
+    background-color: #e85a69;
+}
+
+.shop {
+    background-color: #e85a69;
+    margin-left: 39%;   
+}
+
+.footer {
+    background-color: #e85a69;
+    color: white;
+    margin-top: 30px;
+    padding-left: 15%;
+    padding-top: 20px;
+}
+/* Banner Styling */
+#banner{
+    background: url('banner.jpg') no-repeat 0 0;
+    background-size: cover;
+}
+.banner-title{
+    padding-top: 4rem;
+
+}
+.banner-title h2{
+    background-color: rgba(255, 255, 255, 0.6);
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+}
+.banner-title p.lead{
+    background-color: rgba(48, 125, 161, 0.5);
+    padding: 10px;
+    color: #fff;
+}
